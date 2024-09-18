@@ -6,7 +6,7 @@ Spike and its Installation
 
 With the growing adoption of the RISC-V architecture, developers and hardware engineers have found themselves in need of reliable tools for simulating, testing, and validating RISC-V designs before hardware is available. One such indispensable tool in the RISC-V ecosystem is **SPIKE**, the official RISC-V Instruction Set Simulator (ISS).
 
-**What is SPIKE?**
+### **What is SPIKE?**
 
 SPIKE is an open-source instruction set simulator that models the behavior of RISC-V processors at the instruction level. Developed by the RISC-V Foundation, SPIKE serves as a reference model for the RISC-V architecture. It simulates how a RISC-V core processes instructions, manipulates registers, and interacts with memory, allowing developers to verify that their software or hardware implementations behave correctly.
 
@@ -18,7 +18,7 @@ While the primary use case for SPIKE is simulating RISC-V processors, it can als
 
 SPIKE acts as a virtual processor, executing instructions and enabling early-stage development and testing, even when physical hardware is unavailable or impractical to use.
 
-**Main Functionalities of SPIKE**
+## **Main Functionalities of SPIKE**
 
 **1. Instruction Set Simulation**
 
