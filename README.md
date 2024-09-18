@@ -1,5 +1,5 @@
 # Spike-and-its-Installation
-Spike and its Installation
+
 
 
 ## An Introduction to SPIKE: The RISC-V Instruction Set Simulator
